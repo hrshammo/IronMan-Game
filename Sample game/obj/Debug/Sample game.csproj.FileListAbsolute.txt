@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Sample game\Sample game\bin\Debug\Sample game.exe.config
+C:\Users\User\source\repos\Sample game\Sample game\bin\Debug\Sample game.exe
+C:\Users\User\source\repos\Sample game\Sample game\bin\Debug\Sample game.pdb
+C:\Users\User\source\repos\Sample game\Sample game\obj\Debug\Sample game.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Sample game\Sample game\obj\Debug\Sample game.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Sample game\Sample game\obj\Debug\Sample_game.Form1.resources
+C:\Users\User\source\repos\Sample game\Sample game\obj\Debug\Sample_game.Properties.Resources.resources
+C:\Users\User\source\repos\Sample game\Sample game\obj\Debug\Sample game.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Sample game\Sample game\obj\Debug\Sample game.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Sample game\Sample game\obj\Debug\Sample game.exe
+C:\Users\User\source\repos\Sample game\Sample game\obj\Debug\Sample game.pdb
