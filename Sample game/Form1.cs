@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+//All Copyright © goes to HR Shammo (https://github.com/hrshammo/) 
 namespace Sample_game
 {
     public partial class Form1 : Form
