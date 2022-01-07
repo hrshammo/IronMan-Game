@@ -1,7 +1,7 @@
 ﻿namespace Sample_game
 {
     partial class Form1
-    {
+    {   //All Copyright © goes to HR Shammo (https://github.com/hrshammo/) 
         /// <summary>
         /// Required designer variable.
         /// </summary>
